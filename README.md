@@ -1,4 +1,4 @@
-<div align="center"><img width=45% src="https://cdn.iconscout.com/icon/free/png-256/parcel-2130861-1794992.png"></div>
+<div align="center"><img width=25% src="https://cdn.iconscout.com/icon/free/png-256/parcel-2130861-1794992.png"></div>
 <h1 align="center">Parcel Package Manager</h1>
 <h4 align="center">A package mananger for the luau language.</h4>
 <br>
@@ -11,3 +11,7 @@ To be able to use parcel, please make sure you have a valid instalation of <a hr
 
 ## Please note:
 Parcel is currently under heavy development and will most likely not be finished in the near future. But you are free to follow it's development.
+
+## Are the any prerequisites for using parcel?
+**Yes,** <a href="https://nodejs.org/dist/v18.12.1/node-v18.12.1-x64.msi">NodeJS</a> is required to be installed on your target machine.
+
