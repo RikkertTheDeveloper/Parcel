@@ -1,5 +1,4 @@
 ![Banner](https://repository-images.githubusercontent.com/571791724/6d432444-24a6-43c0-8fa5-ce3d8be59a39)
-
 <br>
 
 ## What is Parcel?
@@ -13,3 +12,7 @@ Upon uploading a package, the package will be saved as a <a href="https://www.ho
 
 ## Please note the following:
 Parcel is currently under heavy development and will most likely not be finished in the near future. But you are free to follow it's development.
+
+## Are the any prerequisites for using parcel?
+**Yes,** <a href="https://nodejs.org/dist/v18.12.1/node-v18.12.1-x64.msi">NodeJS</a> is required to be installed on your target machine.
+
