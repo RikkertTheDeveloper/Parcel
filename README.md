@@ -1,6 +1,4 @@
-<div align="center"><img width=25% src="https://cdn.iconscout.com/icon/free/png-256/parcel-2130861-1794992.png"></div>
-<h1 align="center">Parcel Package Manager</h1>
-<h4 align="center">A package mananger for the luau language.</h4>
+![Banner](https://repository-images.githubusercontent.com/571791724/6d432444-24a6-43c0-8fa5-ce3d8be59a39)
 <br>
 
 ## What is Parcel?
