@@ -1,0 +1,27 @@
+{
+  "name": "parcel",
+  "version": "0.0.1",
+  "description": "A package manager for the luau language",
+  "main": "parcel.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RikkertTheDeveloper/Parcel.git"
+  },
+  "keywords": [
+    "Parcel"
+  ],
+  "author": "Rick Arendsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RikkertTheDeveloper/Parcel/issues"
+  },
+  "homepage": "https://github.com/RikkertTheDeveloper/Parcel#readme",
+
+  "devDependencies": {
+    "@parcel/generation": "0.0.1",
+    "@parcel/globals": "0.0.1"
+  }
+}

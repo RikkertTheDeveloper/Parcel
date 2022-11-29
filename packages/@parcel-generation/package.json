@@ -1,0 +1,20 @@
+{
+    "name": "@parcel/generation",
+    "version": "0.0.1",
+    "main": "src/index.js",
+
+    "files": [
+        "src"
+    ],
+
+    "repository": {
+          "type": "git",
+          "url": "https://github.com/RikkertTheDeveloper/Parcel.git",
+          "directory": "packages/@parcel-generation"
+      },
+
+    "exports": {
+        ".": "./src/index.js",
+        "./package.json": "./package.json"
+    }
+  }
